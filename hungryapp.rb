@@ -1,5 +1,5 @@
 puts "\n\nWelcome to Shop Shack\n\n"
-
+puts "Please select from the options listed"
 
 ##############
 
